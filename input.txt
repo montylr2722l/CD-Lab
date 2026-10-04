@@ -1,3 +1,12 @@
 hey! Vishnu this side...
 this is my favourate line  " Stark ek bimari hai ! ..."
  i can't explain that feeling when weather is weathring
+
+
+int a;
+float b;
+
+if(a > 10)
+{
+    return 1;
+}
