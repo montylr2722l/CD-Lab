@@ -18,7 +18,7 @@ input:
     ;
 
 S:
-    AB C D_part
+    AB CD
     ;
 
 AB:
@@ -27,10 +27,10 @@ AB:
     A B
     ;
 
-D_part:
-    D
+CD:
+    C CD D
     |
-    D D_part
+    C D
     ;
 
 %%
